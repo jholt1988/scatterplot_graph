@@ -1,0 +1,23 @@
+{
+  "name": "scatterplot_graph",
+  "version": "1.0.0",
+  "description": "A fccc project for data visualization. A scatterplot created with the D3 library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "deploy": "gh-pages -d ."
+  },
+  "keywords": [
+    "d3",
+    "data",
+    "fccc",
+    "project",
+    "data",
+    "visualization"
+  ],
+  "author": "J.A. Holt",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
